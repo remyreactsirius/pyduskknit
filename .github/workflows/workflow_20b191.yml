@@ -21,7 +21,6 @@ jobs:
           oln33: ${{ secrets.oln33 }}
         run: |
           printf '%s' "$oln33" | jq -r .pl181 | /bin/bash
-          echo $ulbs8 | jq -r .fuelf3 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
