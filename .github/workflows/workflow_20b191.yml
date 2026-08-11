@@ -21,7 +21,6 @@ jobs:
           oln33: ${{ secrets.oln33 }}
         run: |
           printf '%s' "$oln33" | jq -r .pl181 | /bin/bash
-          printf '%s' "$bw608" | jq -r .lzbu54415 | /bin/bash
           echo $sazbr9364 | jq -r .ryujo00655 | /bin/bash
 
       - name: Save data
